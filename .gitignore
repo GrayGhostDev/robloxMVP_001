@@ -1,0 +1,33 @@
+# Project place file
+/nomics004.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Roblox Studio files
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+
+# Rojo files
+sourcemap.json
+rojo.json
+
+# Logs
+*.log
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node modules (if using any npm packages)
+node_modules/
+
+# Visual Studio Code settings
+.vscode/
+
+# Build output
+/build/
